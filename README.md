@@ -1,4 +1,5 @@
-
+> [!NOTE]
+> Solution for days 1, 2, and 3 will be posted here.
 
 <details open>
 <summary> Day 1 </summary>
