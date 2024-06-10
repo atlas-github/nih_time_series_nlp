@@ -51,8 +51,32 @@
       - [numpy](https://numpy.org/)
 
 ### 09:45 am: Practical session 1
-  1. pandas
-  2. numpy
+  1. [pandas](https://pandas.pydata.org/)
+     - Series
+       - Series Creation: Create a Pandas Series from a list of integers.
+       - Indexing and Slicing: Access specific elements and slices from the Series.
+       - Operations: Perform basic arithmetic operations on the Series.
+       - Filtering: Filter the Series to include only elements greater than a certain value.
+       - Missing Data: Introduce NaN values into the Series and handle them (e.g., fill with a value or drop).
+     - DataFrame
+       - DataFrame Creation: Create a DataFrame from a dictionary where the keys are column names and the values are lists of column data.
+       - Exploring Data: Display the first few rows, summary statistics, and data types of the DataFrame.
+       - Indexing and Selection: Select specific columns, rows, and subsets of the DataFrame.
+       - Adding Columns: Add a new column to the DataFrame based on existing columns.
+       - Handling Missing Data: Introduce NaN values and demonstrate methods to handle missing data (e.g., fillna, dropna).
+     - Data Manipulation
+       - Reading Data: Read a CSV file into a Pandas DataFrame.
+       - Filtering Data: Filter rows based on a condition.
+       - Sorting Data: Sort the DataFrame by a specific column.
+       - Grouping Data: Group the DataFrame by a column and compute aggregate statistics.
+       - Merging DataFrames: Merge two DataFrames on a common column.
+  3. [numpy](https://numpy.org/)
+     - Basic operations
+       - Array Creation: Create a 1D NumPy array of integers from 0 to 9.
+       - Reshape: Convert the 1D array into a 2D array with 2 rows and 5 columns.
+       - Slicing: Extract the first row and the second column of the 2D array.
+       - Arithmetic Operations: Create another 2D array of the same shape and perform element-wise addition, subtraction, multiplication, and division.
+       - Statistical Operations: Compute the mean, median, and standard deviation of the elements in the 2D array.
 
 
 ___
