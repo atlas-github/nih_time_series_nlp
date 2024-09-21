@@ -171,7 +171,11 @@ ___
   3. Data Preparation
 
 ### 09:45 am: Introduction to NLP data preprocessing
-  1.
+  1. Tokenization
+  2. Stopword removal
+  3. Stemming
+  4. Lemmatization
+  5. Text normalization 
 
 ___
 
@@ -191,9 +195,20 @@ ___
 ___
 
 ### 2:00 pm: Text normalization techniques
+  1. Converting text to lowercase
+  2. Expanding contractions
+  3. Handling special characters and numbers
+  4. Normalizing workspace
+  5. Removing non-ASCII characters
+  6. Remalizing tect using lemmatization  
 
 
 ### 3:00 pm: Feature extraction for NLP
+  1. Bag of Words
+  2. Term Frequency-Inverse Document Frequency (TF-IDF)
+  3. Word Embeddings (Word2Vec)
+  4. Document Embeddings (Doc2Vec)
+  5. N-grams
 
 
 ### 4:00 pm: Practical session 8
