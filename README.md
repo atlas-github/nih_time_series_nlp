@@ -85,14 +85,14 @@ ___
 ___
 
 ### 11:00 am: Introduction to time series data
-  1. understanding time series data
-  2. common time series patterns and terminology
-  3. loading and exploring time series data with Python
+  1. Understanding time series data
+  2. Common time series patterns and terminology
+  3. Loading and exploring time series data with Python
 
 ### 12:00 pm: Basic data cleaning techniques
-  1. handling missing values, imputation and interpolation
-  2. removing duplicates
-  3. data type conversion and validation
+  1. Handling missing values, imputation and interpolation
+  2. Removing duplicates
+  3. Data type conversion and validation
 
 ___
 
@@ -100,15 +100,21 @@ ___
 ___
 
 ### 2:00 pm: Practical session 2
-  1. Hands-on exercise on loading, exploring, and cleaning time series data
+  1. Download the dengue csv file
+  2. Filter to only relevant columns
+  3. Convert date to datetime format
+  4. Identify postcodes with most complete/missing data
+  5. Create a pivot table
+  6. Visualize case counts data
 
 ### 3:00 pm: Advanced data cleaning techniques
   1. Detecting and handling outliers
-  2. smoothing time series data
-  3. handling seasonal and trend components
+  2. Smoothing time series data
+  3. Handling seasonal and trend components
 
 ### 4:00 pm: Practical session 3
-  1. 
+  1. Apply moving average smoothing and visualize
+  2. Use a for loop to run the code for a few postcodes
 
 </details>
 
