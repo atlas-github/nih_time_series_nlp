@@ -150,8 +150,8 @@ ___
 ___
 
 ### 2:00 pm: Practical session 5
-  1.
-
+  1. Machine learning [cheat sheet](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+  2. Facebook [Prophet](https://facebook.github.io/prophet/)
 
 ### 3:00 pm: Advanced data cleaning techniques
   1. Machine learning [cheat sheet](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
@@ -168,7 +168,6 @@ ___
 ### 09:00 am: Practical session 6
   1. Split data into training and testing sets
   2. Time series cross-validation techniques
-  3. Data Preparation
 
 ### 09:45 am: Introduction to NLP data preprocessing
   1. Tokenization
@@ -188,6 +187,8 @@ ___
   3. Removing stopwords and punctuation
 
 ### 12:00 pm: Practical session 7
+  1. Geocoding using Google Cloud Platform
+  2. Compare Google Cloud Platform's address details with original dataset
 
 ___
 
@@ -212,5 +213,7 @@ ___
 
 
 ### 4:00 pm: Practical session 8
+  1. Geocode with OpenStreetMap
+  2. Geocode places with missing postcodes
 
 </details>
