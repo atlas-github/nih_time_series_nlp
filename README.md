@@ -138,7 +138,8 @@ ___
 ___
 
 ### 11:00 am: Practical session 4
-  1. 
+  1. Cretae a plot showing the number of cases for a selected location, with a lag
+  2. Overlay external weather data
 
 ### 12:00 pm: Time series decomposition
   1. Decomposing time series into trend, seasonality, and residuals
@@ -153,12 +154,11 @@ ___
   1. Machine learning [cheat sheet](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
   2. Facebook [Prophet](https://facebook.github.io/prophet/)
 
-### 3:00 pm: Advanced data cleaning techniques
-  1. Machine learning [cheat sheet](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
-  2. Facebook [Prophet](https://facebook.github.io/prophet/)
-
 ### 4:00 pm: Resampling and time series frequency conversion
-  1. 
+  1. Downsampling
+  2. Upsampling
+  3. Resampling with aggregation
+  4. Frequency conversion
 
 </details>
 
