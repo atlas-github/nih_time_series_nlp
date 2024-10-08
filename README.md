@@ -1,6 +1,6 @@
 > [!NOTE]
-> Solution for days [1](https://github.com/atlas-github/nih_time_series_nlp/blob/main/nih_time_series_nlp_day1.ipynb), 2, and 3 will be posted here. Code-CV is [here](https://docs.google.com/document/d/1HFhnGH9d2zWqIK2C2l1nDAw-PNwm05Z-dFQRSw1LsEQ/edit?usp=sharing).
-> Wide pivot table can be found [here](https://colab.research.google.com/drive/1qOUc-6wyL2gm4_REoWT6eBCof_S0jSYY?usp=sharing)
+> Solution for days [1](https://github.com/atlas-github/nih_time_series_nlp/blob/main/nih_time_series_nlp_day1.ipynb), 2, and 3 will be posted here. Code-CV is [here](https://docs.google.com/document/d/1HFhnGH9d2zWqIK2C2l1nDAw-PNwm05Z-dFQRSw1LsEQ/edit?usp=sharing). 
+> Wide pivot table can be found [here](https://colab.research.google.com/drive/1qOUc-6wyL2gm4_REoWT6eBCof_S0jSYY?usp=sharing).
 
 <details open>
 <summary> Day 1 </summary>
