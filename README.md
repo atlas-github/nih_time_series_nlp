@@ -3,6 +3,12 @@
 > Wide pivot table can be found [here](https://github.com/atlas-github/nih_time_series_nlp/blob/main/wide_pivot_table.ipynb).
 > Concatenating two dataframes code can be found [here](https://github.com/atlas-github/nih_time_series_nlp/blob/main/concat_example.ipynb).
 
+> [!NOTE]
+> Wide pivot table can be found [here](https://github.com/atlas-github/nih_time_series_nlp/blob/main/wide_pivot_table.ipynb).
+
+> [!NOTE]
+> Concatenating two dataframes code can be found [here](https://github.com/atlas-github/nih_time_series_nlp/blob/main/concat_example.ipynb).
+
 <details open>
 <summary> Day 1 </summary>
 
